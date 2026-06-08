@@ -16,7 +16,7 @@ const gifs = {
 function initButtons() {
   btnContainer.innerHTML = `
     <button class="btn yes" id="yesBtn">Love 💕</button>
-    <button class="btn no" id="noBtn">NO, harus Love 💔 </button>
+    <button class="btn no" id="noBtn">NO, Love 💔 </button>
   `;
 
   const yesBtn = document.getElementById('yesBtn');
